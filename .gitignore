@@ -9,3 +9,4 @@ __pycache__
 package.json
 package-lock.json
 webpack.*
+node_modules
