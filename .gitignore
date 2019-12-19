@@ -6,3 +6,5 @@ __pycache__
 .project
 .settings
 */target/*
+package.json
+package-lock.json
