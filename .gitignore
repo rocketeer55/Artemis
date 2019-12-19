@@ -8,3 +8,4 @@ __pycache__
 */target/*
 package.json
 package-lock.json
+webpack.*
