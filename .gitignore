@@ -5,6 +5,6 @@ __pycache__
 .factorypath
 .project
 .settings
-*/target/*
+target
 package.json
 package-lock.json
