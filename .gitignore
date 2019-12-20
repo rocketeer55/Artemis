@@ -2,3 +2,12 @@ env
 .vscode
 __pycache__
 data
+.classpath
+.factorypath
+.project
+.settings
+target
+package.json
+package-lock.json
+webpack.*
+node_modules
